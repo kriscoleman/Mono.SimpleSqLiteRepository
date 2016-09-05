@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using Mono.Data.Sqlite;
 
-namespace Mono.SimpleSqLiteRepository
+namespace Mono.SimpleSqLiteRepository.ExampleRepository
 {
     /// <summary>
     ///     Note POCO

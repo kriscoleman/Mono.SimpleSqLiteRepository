@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Mono.SimpleSqLiteRepository
+namespace Mono.SimpleSqLiteRepository.ExampleRepository
 {
     /// <summary>
     /// Sample Type-Scoped Repository

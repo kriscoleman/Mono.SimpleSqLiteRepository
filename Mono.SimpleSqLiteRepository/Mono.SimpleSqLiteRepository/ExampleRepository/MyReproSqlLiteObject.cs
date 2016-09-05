@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Mono.SimpleSqLiteRepository
+namespace Mono.SimpleSqLiteRepository.ExampleRepository
 {
     /// <summary>
     ///     Any ISQLLiteDataObject derived from this base are acceptably handled by this Repository.
